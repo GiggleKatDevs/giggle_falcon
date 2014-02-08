@@ -1,15 +1,15 @@
 [
   {
-    "remote": "cm",
+    "remote": "ls",
     "repository": "android_device_motorola_qcom-common",
     "target_path": "device/motorola/qcom-common",
-    "revision": "cm-11.0"
+    "revision": "kitkat"
   },
   {
     "remote": "gh",
-    "repository": "TEAM-Gummy/android_device_motorola_msm8226-common",
+    "repository": "razrqcom-dev-team/android_device_motorola_msm8226-common",
     "target_path": "device/motorola/msm8226-common",
-    "revision": "kk4.4"
+    "revision": "cm-11.0"
   },
   {
     "remote": "ls",
