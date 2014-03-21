@@ -29,14 +29,6 @@ PRODUCT_LOCALES := en_US
 PRODUCT_LOCALES += xhdpi
 PRODUCT_AAPT_CONFIG := normal hdpi xhdpi
 PRODUCT_AAPT_PREF_CONFIG := xhdpi
-
-# CDMA, GSM/WCDMA
-PRODUCT_PROPERTY_OVERRIDES += \
-	ro.telephony.default_network=5 \
-	telephony.lteOnCdmaDevice=1 \
-	persist.radio.mode_pref_nv10=1 \
-	persist.radio.no_wait_for_card=1 \
-	persist.radio.dfr_mode_set=1
 	
 # OTA ID
 PRODUCT_PROPERTY_OVERRIDES += \
