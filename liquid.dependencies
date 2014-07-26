@@ -21,7 +21,7 @@
     "remote": "lsd",
     "repository": "android_kernel_motorola_msm8226",
     "target_path": "kernel/motorola/msm8226",
-    "revision": "kitkat"
+    "revision": "kitkat2"
   },
   {
     "remote": "cm",
@@ -42,9 +42,9 @@
     "revision": "kitkat"
   },
   {
-    "remote": "tm",
+    "remote": "ls",
     "repository": "proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
-    "revision": "cm-11.0"
+    "revision": "kitkat"
    }
 ]
