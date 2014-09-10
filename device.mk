@@ -25,10 +25,6 @@ PRODUCT_PACKAGES += \
     fstab.qcom \
     gpe-fstab.qcom
 
-# Video Fix
-PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/overlay/prebuilt/libplayback_adreno.so:system/vendor/lib/egl/libplayback_adreno.so
-
 # Wifi
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/wifi/WCNSS_qcom_wlan_nv.bin:system/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin
