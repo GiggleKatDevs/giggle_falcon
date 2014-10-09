@@ -24,7 +24,7 @@
     "revision": "cm-11.0"
   },
   {
-c
+    "remote": "cm",
     "repository": "android_hardware_qcom_display-caf-new",
     "target_path": "hardware/qcom/display-caf-new",
     "revision": "cm-11.0"
@@ -36,9 +36,9 @@ c
     "revision": "kitkat"
   },
   {
-    "remote": "cm"
+    "remote": "ls",
     "repository": "proprietary_vendor_falcon",
     "target_path": "vendor/motorola",
-    "revision": "cm-11.0"
+    "revision": "kitkat"
    }
 ]
