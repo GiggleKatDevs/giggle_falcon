@@ -36,7 +36,7 @@ c
     "revision": "kitkat"
   },
   {
-    "revision": "cm-11.0"
+    "remote": "cm"
     "repository": "proprietary_vendor_falcon",
     "target_path": "vendor/motorola",
     "revision": "cm-11.0"
